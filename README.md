@@ -1,6 +1,6 @@
 # PyTorch Practice 
 
-This is a repository where I go over and put to practice the lessons learnt in the four courses in DataCamp dedicated to PyTorch: Introduction to Deep Learning with Pytorch, Intermediate Deep Learning with Pytorch, Deep Learning for Images with Pytorch and Deep Learning for Text with PyTorch.
+This is a repository where I go over and put to practice the lessons learnt in the four courses in DataCamp dedicated to PyTorch: Introduction to Deep Learning with Pytorch, Intermediate Deep Learning with Pytorch.
 
 # Table of Contents 
 - [Introduction to PyTorch]
@@ -39,3 +39,6 @@ This is a repository where I go over and put to practice the lessons learnt in t
         - Generating sequences
         - Types of RNNs
         - GRU vs LSTM vs RNNs (small paragraphs)
+
+# Next steps
+Deep Learning for Images with Pytorch and Deep Learning for Text with PyTorch.
