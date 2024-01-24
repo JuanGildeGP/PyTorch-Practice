@@ -21,4 +21,21 @@ This is a repository where I go over and put to practice the lessons learnt in t
         - Activation layer ReLU
         - Activation layer Leaky ReLU
 
+- [Intermediate_PyTorch]
+    - [Object Oriented]
+        - Creating classes and init methods
+        - Comparing optimizers (Pros and Cons)
+          - SGD
+          - Adagrad
+          - RMSprop
+          - Adam
+        - Unstable Gradient
 
+    - [Images in PyTorch]
+        - Data Augmentation
+        - Convolutional layers
+
+    - [Sequences & RNN]
+        - Generating sequences
+        - Types of RNNs
+        - GRU vs LSTM vs RNNs (small paragraphs)
